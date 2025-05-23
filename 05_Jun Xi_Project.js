@@ -2098,7 +2098,7 @@ lib.properties = {
 	color: "#000000",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/05_Jun Xi_Project_atlas_1.png?1747791592012", id:"05_Jun Xi_Project_atlas_1"}
+		{src:"images/05_Jun Xi_Project_atlas_1.png", id:"05_Jun Xi_Project_atlas_1"}
 	],
 	preloads: []
 };
